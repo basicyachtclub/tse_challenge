@@ -23,3 +23,7 @@ test_pipeline.py
 
 # pyenv
 .python-version
+
+# output folder
+quicklook/
+assets/
